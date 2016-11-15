@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap.native",
-  "version": "1.1.0",
-  "description": "Native Javascript for Bootstrap 3, the sweetest Javascript library without jQuery.",
+  "name": "bootstrap-4.native-es6",
+  "version": "0.0.1",
+  "description": "Native Javascript for Bootstrap 4, the sweetest Javascript library without jQuery.",
   "main": "dist/bootstrap-native.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thednp/bootstrap.native.git"
+    "url": "git+https://github.com/noBlubb/bootstrap.native.git"
   },
   "keywords": [
     "bootstrap.native",
