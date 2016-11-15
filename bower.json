@@ -1,11 +1,11 @@
 {
-  "name": "bootstrap.native",
-  "version": "1.1.0",
+  "name": "bootstrap-4.native-es6",
+  "version": "1.0.0",
   "homepage": "http://thednp.github.io/bootstrap.native/",
   "authors": [
     "dnp_theme"
   ],
-  "description": "Native Javascript for Bootstrap 3, the sweetest Javascript library without jQuery.",
+  "description": "Native Javascript for Bootstrap 4, the sweetest Javascript library without jQuery. Featuring ES6 modules.",
   "main": "dist/bootstrap-native.js",
   "moduleType": [
     "globals",
