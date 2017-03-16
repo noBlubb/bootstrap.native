@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4.native-es6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Native Javascript for Bootstrap 4, the sweetest Javascript library without jQuery.",
   "main": "dist/bootstrap-native.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/thednp/bootstrap.native/issues"
   },
-  "homepage": "https://thednp.github.io/bootstrap.native/",
+  "homepage": "https://thednp.github.io/bootstrap.native/"
 }
